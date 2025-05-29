@@ -5,9 +5,8 @@ modern UI elements and key financial features.
 
 📸 Preview
 
-
-![Screenshot 2025-04-21 223356](https://github.com/user-attachments/assets/f26906f6-5420-4a5c-9727-510ff59a7004)
 ![Screenshot 2025-04-21 223020](https://github.com/user-attachments/assets/c499cf3d-811f-4936-9f0c-80c31ea19223)
+![Screenshot 2025-04-21 223356](https://github.com/user-attachments/assets/f26906f6-5420-4a5c-9727-510ff59a7004)
 
 
 
