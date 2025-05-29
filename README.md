@@ -14,7 +14,7 @@ modern UI elements and key financial features.
 
 
 
-✨ Features
+**✨ Features**
 
 User Authentication (Sign In)
 Deposit Funds
@@ -26,7 +26,7 @@ PIN Change
 Exit / Back Navigation
 Modern Banking UI with images, buttons, and custom colors
 
-**** Technologies Used
+****** Technologies Used**
 
 | Technology                    | Role                       |
 | ----------------------------- | -------------------------- |
@@ -35,7 +35,7 @@ Modern Banking UI with images, buttons, and custom colors
 | VS Code / IntelliJ / Eclipse  | Java IDEs used             |
 | File I/O (optional)           | Simple local data handling |
 
-🗂️ Project Structure
+**🗂️ Project Structure**
 
 BankManagementSystem/
 ├── src/
@@ -48,15 +48,16 @@ BankManagementSystem/
 ├── Screenshot.png
 └── .gitignore
 
-System Requirements:
+**System Requirements:**
+
 • Interpreters: Java and Java Database Connectivity(JDBC).
 • Software: Vs code/Netbeans, Xampp.
 • Database: MySQL, sql.
 • Hardware: 10GB storage, 4gb ram 4.1.2
 
 
-🚀 How to Run
-
+**🚀 How to Run
+**
 Clone the repository:
 
 1. git clone  https://github.com/BuildWithAK/BankSystem-AWT-Swing.git
