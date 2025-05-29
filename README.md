@@ -41,7 +41,7 @@ BankManagementSystem/
 
 Clone the repository:
 
-1. git clone  
+1. git clone  https://github.com/BuildWithAK/BankSystem-AWT-Swing.git
 2. Open the folder in your preferred Java IDE.
 3. Compile and run the Main.java file.
 4. Use the GUI to perform all banking transactions.
