@@ -5,9 +5,16 @@ modern UI elements and key financial features.
 
 **📸 Preview**
 
+1. Login Page
 ![Screenshot 2025-04-21 223020](https://github.com/user-attachments/assets/c499cf3d-811f-4936-9f0c-80c31ea19223)
+
+2. Main Page
 ![Screenshot 2025-04-21 223356](https://github.com/user-attachments/assets/f26906f6-5420-4a5c-9727-510ff59a7004)
+
+3. Withdrawal page
 ![Screenshot 2025-04-21 223650](https://github.com/user-attachments/assets/a7601045-9655-4f89-86aa-61b5195a77c8)
+
+4.Fast Cash page
 ![Screenshot 2025-05-29 161023](https://github.com/user-attachments/assets/7fcee47c-9848-4c7b-b161-c5ca0900aa56)
 
 
