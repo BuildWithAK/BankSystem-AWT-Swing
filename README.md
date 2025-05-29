@@ -48,6 +48,13 @@ BankManagementSystem/
 ├── Screenshot.png
 └── .gitignore
 
+System Requirements:
+• Interpreters: Java and Java Database Connectivity(JDBC).
+• Software: Vs code/Netbeans, Xampp.
+• Database: MySQL, sql.
+• Hardware: 10GB storage, 4gb ram 4.1.2
+
+
 🚀 How to Run
 
 Clone the repository:
